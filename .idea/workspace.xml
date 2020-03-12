@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1fafe1d-5b3a-419c-aaaa-bf80be5feec0" name="Default Changelist" comment="" />
+    <list default="true" id="e1fafe1d-5b3a-419c-aaaa-bf80be5feec0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,5 +38,11 @@
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1649" y="758" width="564" height="629" key="FileChooserDialogImpl" timestamp="1583973801053">
+      <screen x="48" y="48" width="3792" height="2112" />
+    </state>
+    <state x="1649" y="758" width="564" height="629" key="FileChooserDialogImpl/48.48.3792.2112@48.48.3792.2112" timestamp="1583973801053" />
   </component>
 </project>
